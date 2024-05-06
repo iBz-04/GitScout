@@ -1,11 +1,12 @@
-# Project Title
+# About Project 
 
-GitSCout is a project meant to help users search and retrieve the most important information from a target person's github account
-Use case: A recruiter could use it to search for information of an applican, its' simplicity enables people who do not have experience with github to easily navigate
+GitSCout : is a project meant to help users search and retrieve the most important information from a target person's github account
+#Use Case
+ A recruiter could use it to search for information of an applicant, its' simple Ui enables people who do not have experience with github to easily navigate.
 
 ## Tech Stack
 
-**Client:** HTML, CSS, Vanilla JavaScript, API integration
+Vanilla JavaScript, Github API, HTML, CSS
 
 ## Features
 
