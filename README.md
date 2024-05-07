@@ -1,7 +1,8 @@
 # About Project 
 
 GitSCout : is a project meant to help users search and retrieve the most important information from a target person's github account
-#Use Case
+
+# Use Case
  A recruiter could use it to search for information of an applicant, its' simple Ui enables people who do not have experience with github to easily navigate.
 
 ## Tech Stack
